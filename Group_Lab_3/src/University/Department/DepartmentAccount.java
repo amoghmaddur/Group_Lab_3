@@ -5,8 +5,8 @@
  */
 package University.Department;
 
+import University.CourseSchedule.CourseSchedule;
 import University.Department.Department;
-import info5100.university.example.CourseSchedule.CourseSchedule;
 
 /**
  *

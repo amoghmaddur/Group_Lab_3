@@ -5,9 +5,8 @@
  */
 package University.Persona;
 
-import University.Persona.Person;
+
 import University.Department.Department;
-import info5100.university.example.Persona.StudentProfile;
 import java.util.ArrayList;
 
 /**

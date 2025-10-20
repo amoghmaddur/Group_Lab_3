@@ -5,7 +5,9 @@
  */
 package info5100.university.example.workareas;
 
-import info5100.university.example.Persona.Person;
+
+import University.Persona.Person;
+import University.Workareas.WorkRequest;
 import java.util.ArrayList;
 
 /**

@@ -5,8 +5,9 @@
  */
 package University.Persona.Faculty;
 
-import info5100.university.example.CourseSchedule.CourseOffer;
-import info5100.university.example.Persona.Faculty.FacultyProfile;
+import University.CourseSchedule.CourseOffer;
+
+
 
 /**
  *

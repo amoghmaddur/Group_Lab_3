@@ -5,7 +5,9 @@
  */
 package University.Workareas;
 
-import info5100.university.example.Persona.Person;
+import University.Persona.Person;
+
+
 
 /**
  *

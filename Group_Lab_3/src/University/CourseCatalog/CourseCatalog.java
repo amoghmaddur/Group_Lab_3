@@ -6,7 +6,7 @@
 package University.CourseCatalog;
 
 import University.CourseCatalog.Course;
-import info5100.university.example.Department.Department;
+import University.Department.Department;
 import java.util.ArrayList;
 
 /**
